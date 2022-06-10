@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este é um desafio para testar seus conhecimentos de Front-end;
+Este é um desafio para testar seus conhecimentos de Mobile;
 
-O objetivo é avaliar a sua forma de estruturação e autonomia em decisões para construir algo escalável utilizando um framework moderno javascript.
+O objetivo é avaliar a sua forma de estruturação e autonomia em decisões para construir algo escalável utilizando um framework moderno.
 
-Você está livre para usar React, Vue ou Angular 8+ no desenvolvimento da solução deste tech challenge.
+Você está livre para usar Android Kotlin, Swift iOS, Flutter ou React Native no desenvolvimento da solução deste tech challenge.
 
 ### Instruções iniciais obrigatórias
 
@@ -22,13 +22,7 @@ Vamos dar uma olhada em algumas receitas? A meta é criarmos um aplicativo de pe
 ## Recursos
 
 1. Estudar a documentação da REST API: https://forkify-api.herokuapp.com
-2. Utilizar React, Vue ou Angular 8+ para construir a solução do Challenge;
-3. Utilizar Frameworks CSS ou estilo proprio, recomendamos alguns como:
-
-      - Tailwind CSS: https://tailwindcss.com/
-      - Material UI: https://material-ui.com/
-      - Angular Material: https://material.angular.io/
-      - Bootstrap: https://getbootstrap.com/
+2. Utilizar Android Kotlin, Swift iOS, Flutter ou React Native para construir a solução do Challenge;
 
 4. Trabalhar em um repositório em seu usuário ou utilizar o seu github pessoal (não esqueça de colocar no readme a referência a este challenge);
 
